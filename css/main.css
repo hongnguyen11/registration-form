@@ -10,3 +10,19 @@ html {
 h1 {
   border-bottom: 1px solid #000;
 }
+
+.button {
+  text-align: center;
+}
+
+@media only screen and (min-width: 60em) {
+
+  .agee {
+    padding-left: 1em;
+  }
+
+  .fitness {
+    padding-left: 1em;
+  }
+
+}
